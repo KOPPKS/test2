@@ -75,7 +75,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 }
 
 html {
-  background-color: red;
+  background-color: #c43235;
   min-height: 100%;
   height: auto;
 }
@@ -84,14 +84,14 @@ body  {
   font-family: Lato, 'Helvetica Nueue', Helvetica, Arial, sans-serif;
   font-size: 1rem;
   line-height: 160%;
-  background: red;
+  background: #c43235;
   color: #555459;
   line-height: 1.5rem;
     *zoom: 1;
 }
 
 .card {
-  background: blue;
+  background: #f2b632;
   width: 100%;
   max-width: 850px;
   margin-left: auto;
@@ -444,7 +444,7 @@ ul.awardslist li .award {
 
 nav {
   width: 100%;
-  background: purple;
+  background: #62bcfa;
   box-shadow: 0 1px 1px rgba(0,0,0,.1);
 }
 
@@ -457,7 +457,7 @@ nav {
   width: 80%;
   font-size: 1.6em;
   text-align: left;
-  color: yellow;
+  color: #e51c23;
   text-decoration: none;
   text-align: left;
 }
@@ -474,7 +474,7 @@ nav ul {
 
 nav ul li {
   float: right;
-  color: #145266;
+  color: #FFC200;
   font-family: Lato, 'Helvetica Nueue', Helvetica, Arial, sans-serif;
   margin: 10px 0;
   font-size: 1.1em;
